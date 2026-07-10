@@ -8,6 +8,8 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahatislamanik-spec/azure-cloud-infrastructure-automation)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahatislamanik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahatislamanik)
 
+> **Status:** Portfolio Complete — v1.0 &nbsp;|&nbsp; Azure Fundamentals · Cloud Operations Evidence
+
 ---
 
 ## Scope
